@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346981073759",
+    "firebase_url": "https://message-test-a1b7f.firebaseio.com",
+    "project_id": "message-test-a1b7f",
+    "storage_bucket": "message-test-a1b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346981073759:android:342902d0870dd479",
+        "android_client_info": {
+          "package_name": "mehakmeet.startup.com.messagingtestamvuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346981073759-3vmto9lsjuh5f7s0ihk86vfao29k38in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eIkBUnF07ysg9D7lpZzsfN3yN7DBsO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
