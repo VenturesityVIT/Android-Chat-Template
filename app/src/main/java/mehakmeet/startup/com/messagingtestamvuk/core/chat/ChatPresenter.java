@@ -5,7 +5,7 @@ import android.content.Context;
 import mehakmeet.startup.com.messagingtestamvuk.models.Chat;
 
 /**
- * Author: Kartik Sharma
+ * Author: Mehakmeet Singh
  * Created on: 9/2/2016 , 10:05 PM
  * Project: FirebaseChat
  */
